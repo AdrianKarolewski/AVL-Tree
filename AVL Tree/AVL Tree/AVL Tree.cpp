@@ -16,6 +16,7 @@ public:
     Node* RightCh = nullptr;
 
     Node(int val)
+        : Height(0)
     {
         Key = val;
     }
@@ -236,8 +237,6 @@ public:
                 return index;
             }
         }
-
-
         return 0;
     }
     int FindInTree(int val)
@@ -262,8 +261,6 @@ public:
                 return node;
             }
         }
-
-
         return 0;
     }
     int FindMin_in_Node(Node* node)
@@ -324,7 +321,6 @@ public:
                 parentnode->Key;
         }
         return -1;
-
     }
     int Successor(int val)
     {
@@ -336,7 +332,6 @@ public:
         {
             return 0;
         }
-
     }
     int Predecessor(Node* node)
     {
@@ -358,7 +353,6 @@ public:
                 parentnode->Key;
         }
         return -1;
-
     }
     int Predecessor(int val)
     {
@@ -370,7 +364,6 @@ public:
         {
             return 0;
         }
-
     }
     int Remove(int val)
     {
@@ -417,7 +410,6 @@ public:
             }
             else if (node->LeftCh != nullptr && node->RightCh == nullptr)
             {
-
                 node->LeftCh->Parent = node->Parent;
                 node = node->LeftCh;
                 if (node == root)
@@ -473,7 +465,6 @@ public:
         node->Height = max(GetHeight(node->LeftCh), GetHeight(node->RightCh)) + 1;
         return node;
     }
-
 };
 int main()
 {
@@ -602,7 +593,6 @@ int main()
         default:
             cout << "Niepoprawny wybor";
             break;
-
         }
         system("cls");
     }
