@@ -1,0 +1,6 @@
+﻿  AVL Tree.cpp
+C:\Users\gorgo\source\repos\AVL Tree\AVL Tree\AVL Tree.cpp(481,20): warning C4101: 'predecessor': unreferenced local variable
+C:\Users\gorgo\source\repos\AVL Tree\AVL Tree\AVL Tree.cpp(481,9): warning C4101: 'successor': unreferenced local variable
+C:\Users\gorgo\source\repos\AVL Tree\AVL Tree\AVL Tree.cpp(283): warning C4715: 'Tree::FindMin_in_Node': not all control paths return a value
+C:\Users\gorgo\source\repos\AVL Tree\AVL Tree\AVL Tree.cpp(298): warning C4715: 'Tree::FindMax_in_Node': not all control paths return a value
+  AVL Tree.vcxproj -> C:\Users\gorgo\source\repos\AVL Tree\\bin\Win32\Debug\AVL Tree.exe

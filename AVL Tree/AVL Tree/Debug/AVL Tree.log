@@ -1,0 +1,19 @@
+﻿  AVL Tree.cpp
+C:\Users\gorgo\source\repos\AVL Tree\AVL Tree\AVL Tree.cpp(67,29): error C2589: '(': illegal token on right side of '::'
+C:\Users\gorgo\source\repos\AVL Tree\AVL Tree\AVL Tree.cpp(67,1): error C2062: type 'unknown-type' unexpected
+C:\Users\gorgo\source\repos\AVL Tree\AVL Tree\AVL Tree.cpp(67,1): error C2059: syntax error: ')'
+C:\Users\gorgo\source\repos\AVL Tree\AVL Tree\AVL Tree.cpp(68,37): error C2589: '(': illegal token on right side of '::'
+C:\Users\gorgo\source\repos\AVL Tree\AVL Tree\AVL Tree.cpp(68,1): error C2062: type 'unknown-type' unexpected
+C:\Users\gorgo\source\repos\AVL Tree\AVL Tree\AVL Tree.cpp(68,1): error C2059: syntax error: ')'
+C:\Users\gorgo\source\repos\AVL Tree\AVL Tree\AVL Tree.cpp(90,29): error C2589: '(': illegal token on right side of '::'
+C:\Users\gorgo\source\repos\AVL Tree\AVL Tree\AVL Tree.cpp(90,1): error C2062: type 'unknown-type' unexpected
+C:\Users\gorgo\source\repos\AVL Tree\AVL Tree\AVL Tree.cpp(90,1): error C2059: syntax error: ')'
+C:\Users\gorgo\source\repos\AVL Tree\AVL Tree\AVL Tree.cpp(91,37): error C2589: '(': illegal token on right side of '::'
+C:\Users\gorgo\source\repos\AVL Tree\AVL Tree\AVL Tree.cpp(91,1): error C2062: type 'unknown-type' unexpected
+C:\Users\gorgo\source\repos\AVL Tree\AVL Tree\AVL Tree.cpp(91,1): error C2059: syntax error: ')'
+C:\Users\gorgo\source\repos\AVL Tree\AVL Tree\AVL Tree.cpp(162,30): error C2589: '(': illegal token on right side of '::'
+C:\Users\gorgo\source\repos\AVL Tree\AVL Tree\AVL Tree.cpp(162,1): error C2062: type 'unknown-type' unexpected
+C:\Users\gorgo\source\repos\AVL Tree\AVL Tree\AVL Tree.cpp(162,1): error C2059: syntax error: ')'
+C:\Users\gorgo\source\repos\AVL Tree\AVL Tree\AVL Tree.cpp(466,29): error C2589: '(': illegal token on right side of '::'
+C:\Users\gorgo\source\repos\AVL Tree\AVL Tree\AVL Tree.cpp(466,1): error C2062: type 'unknown-type' unexpected
+C:\Users\gorgo\source\repos\AVL Tree\AVL Tree\AVL Tree.cpp(466,1): error C2059: syntax error: ')'
